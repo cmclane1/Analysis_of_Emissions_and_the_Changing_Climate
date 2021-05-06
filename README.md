@@ -7,7 +7,7 @@ What dangers does climate change pose, and can these changes be predicted. Also 
 ### Initial Analysis
 I imported data on Emissions, Temperature, and Sea Level from reputable sources Global Carbon Project, NASA, and Climate.gov. Then using python I cleaned the data, converted the temps from celcius to fahrenheit and graphed them in the plotly express charts shown below
 
-![](https://github.com/cmclane1/Analysis_of_Emissions_and_the_Changing_Climate/blob/main/Rise_in_Yearly_Emissions.html)
+![alt](https://github.com/cmclane1/Analysis_of_Emissions_and_the_Changing_Climate/blob/main/Rise_in_Yearly_Temps.png)
 
 [Temperature Data](https://data.giss.nasa.gov/gistemp/)
 
