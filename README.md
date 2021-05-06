@@ -5,12 +5,13 @@ I was looking for data to really dig into a problem I am passionate about, and I
 ### Questions
 What dangers does climate change pose, and can these changes be predicted. Also what steps can be taken to reduce the impact of climate change.
 ### Initial Analysis
-I imported data on Emissions, Temperature, and Sea Level from reputable sources Global Carbon Project, NASA, and Climate.gov. Then using python I cleaned the data, converted the temps from celcius to fahrenheit and graphed them in the plotly express charts shown below
+I imported data on Emissions, Temperature, and Sea Level from reputable sources Global Carbon Project, NASA, and Climate.gov. Then using python I cleaned the data, converted the temps from celcius to fahrenheit and graphed them in the plotly express charts shown below. They clearly show that the three are going up at an alarming and similar rate, and is begging for further analysis such as a regression. 
 
 ![alt](https://github.com/cmclane1/Analysis_of_Emissions_and_the_Changing_Climate/blob/main/Rise_in_Yearly_Temps.png)
 ![alt](https://github.com/cmclane1/Analysis_of_Emissions_and_the_Changing_Climate/blob/main/Rise_in_Yearly_GMSL.png)
 ![alt](https://github.com/cmclane1/Analysis_of_Emissions_and_the_Changing_Climate/blob/main/Rise_in_Yearly_Emissions.png)
 
+### Sources
 [Temperature Data](https://data.giss.nasa.gov/gistemp/)
 
 [Sea Level Data](https://www.climate.gov/news-features/understanding-climate/climate-change-global-sea-level)
