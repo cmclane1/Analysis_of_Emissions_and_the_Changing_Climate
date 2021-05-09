@@ -11,6 +11,16 @@ I imported data on Emissions, Temperature, and Sea Level from reputable sources 
 ![alt](https://github.com/cmclane1/Analysis_of_Emissions_and_the_Changing_Climate/blob/main/Rise_in_Yearly_GMSL.png)
 ![alt](https://github.com/cmclane1/Analysis_of_Emissions_and_the_Changing_Climate/blob/main/Rise_in_Yearly_Emissions.png)
 
+### Solution Analysis
+After delving into the dangers of climate change and understanding the extent to which the sea level and co2 emissions are rising, I was intrigued on how this problem can be reduced. I imported data from the Bureau of Transportation Statistics, the most reputable source for statistics regarding travel. I also used data from theUnited States Environmental Protection Agency to get specifics on the co2 emissions. Using python I was able to get a linear regression for each of the data sets. It turns out there is a much stronger correlation between personal vehicle use and co2 emissions rather than public transportation and co2 emissions.
+
+![image](https://user-images.githubusercontent.com/78445017/117363169-369e5c80-ae8a-11eb-9836-701e270e8f05.png)
+
+![image](https://user-images.githubusercontent.com/78445017/117363199-41f18800-ae8a-11eb-8425-d257e4d8de52.png)
+
+![image](https://user-images.githubusercontent.com/78445017/117363225-49b12c80-ae8a-11eb-93bb-ff8489b78e1a.png)
+
+
 ### Sources
 [Python Analysis and Plotting](https://github.com/cmclane1/Analysis_of_Emissions_and_the_Changing_Climate/blob/main/Rise_in_Yearly_Emissions.png)
 
@@ -21,3 +31,11 @@ I imported data on Emissions, Temperature, and Sea Level from reputable sources 
 [Carbon Emissions Data](https://www.statista.com/statistics/264699/worldwide-co2-emissions/#statisticContainer)
 
 [Global Carbon Project](globalcarbonproject.org)
+
+[Transportation Statistics](https://www.bts.gov/browse-statistical-products-and-data/state-transportation-statistics/state-highway-travel)
+
+[Sea Level Graphic](https://riskfinder.climatecentral.org/place/baltimore.md.us?comparisonType=place&forecastName=Basic&forecastType=NOAA2017_int_p50&level=6&unit=ft)
+
+[Scholarly Journal on Transportation vs. Emissions](https://www.transit.dot.gov/sites/fta.dot.gov/files/docs/PublicTransportationsRoleInRespondingToClimateChange2010.pdf)
+
+[Greenhouse Emissions Data](https://www.epa.gov/ghgreporting/archive-ghg-reporting-program-data-sets)
