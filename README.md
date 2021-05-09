@@ -12,17 +12,30 @@ I imported data on Emissions, Temperature, and Sea Level from reputable sources 
 ![alt](https://github.com/cmclane1/Analysis_of_Emissions_and_the_Changing_Climate/blob/main/Rise_in_Yearly_Emissions.png)
 
 ### Solution Analysis
-After delving into the dangers of climate change and understanding the extent to which the sea level and co2 emissions are rising, I was intrigued on how this problem can be reduced. I imported data from the Bureau of Transportation Statistics, the most reputable source for statistics regarding travel. I also used data from theUnited States Environmental Protection Agency to get specifics on the co2 emissions. Using python I was able to get a linear regression for each of the data sets. It turns out there is a much stronger correlation between personal vehicle use and co2 emissions rather than public transportation and co2 emissions.
+After understanding how Humans have caused climate change, which causes global sea level to rise, I was able to identify several areas around Baltimore that would be at risk in the coming years.
+![image](https://user-images.githubusercontent.com/78445017/117585846-9db64e00-b0e2-11eb-8b5e-dfe82e7e1765.png)
+![image](https://user-images.githubusercontent.com/78445017/117585860-b0308780-b0e2-11eb-9a8d-7080d35dddf9.png)
+![image](https://user-images.githubusercontent.com/78445017/117585867-bd4d7680-b0e2-11eb-9182-4174b88f2676.png)
+The graph for the future predictions with medium sea rise corroborate with the above findings, emphasizing the risk this issue poses.
+
+Carbon Dioxide emissions make up about 95% of all transportation related greenhouse gas emissions and transportation is the 2nd leader of the U.S. greenhouse gas emissions alone. This interested me in understanding how we can reduce this issue, and to do so I chose to investigate public transport. I imported data from the Bureau of Transportation Statistics, the most reputable source for statistics regarding travel. I also used data from theUnited States Environmental Protection Agency to get specifics on the co2 emissions. Using python I was able to get a linear regression for each of the data sets. It turns out there is a much stronger correlation between personal vehicle use and co2 emissions rather than public transportation and co2 emissions.
 
 ![image](https://user-images.githubusercontent.com/78445017/117363169-369e5c80-ae8a-11eb-9836-701e270e8f05.png)
 
 ![image](https://user-images.githubusercontent.com/78445017/117363199-41f18800-ae8a-11eb-8425-d257e4d8de52.png)
 
 ![image](https://user-images.githubusercontent.com/78445017/117363225-49b12c80-ae8a-11eb-93bb-ff8489b78e1a.png)
-
+ 
+ Switching to public transport one of the most effective actions individuals can take. Car transportation alonea ccounts for around 47% of the carbon footpring of a typical American family with 2 cars. If one driver switches to public transportation for 10 miles each way, there would be a 8.1% reduction in the carbon footprint yearly. The long term economic benefits are also documented in a study conducted by the American Public Transportation Association, over a 20 year span, capital investment in public transportation would support nearly 15,900 jobs per $1 billion on spending. Baltimore currently has a $3 billion operating budget, a majority of which is dedicated to enriching people's lives and communities. Over $23 million is in the form of "unalloacated dollars" which can definitely be put towards spending for the public transport. 
+ 
+ Rather than expensive experiments through costly techniques that can take several years to see success, having more people switch to public transportation today can be efficient and quick to take action to reduce the impact. For cases like Baltimore where there are high population density areas, the increase of public transporation will help take the city's community to higher heights.
 
 ### Sources
 [Python Analysis and Plotting](https://github.com/cmclane1/Analysis_of_Emissions_and_the_Changing_Climate/blob/main/Rise_in_Yearly_Emissions.png)
+
+[Baltimore Spending](https://www.baltimoresun.com/maryland/baltimore-city/bs-md-ci-baltimore-budget-20200616-udg2jon66jhphotifygip2ikzu-story.html)
+
+[Journal on Economic Effects of Public Transport](https://www.apta.com/wp-content/uploads/Resources/resources/reportsandpublications/Documents/Economic-Impact-Public-Transportation-Investment-APTA.pdf)
 
 [Temperature Data](https://data.giss.nasa.gov/gistemp/)
 
