@@ -16,7 +16,7 @@ What is Climate Change, and what dangers does it pose? Climate change is the fac
  
  ![alt](https://github.com/cmclane1/Analysis_of_Emissions_and_the_Changing_Climate/blob/main/Rise_in_Yearly_Emissions.png)
  
-	Baltimore City is a coastal city so any rise in sea level will affect it significantly, however as far as coastal cities go Baltimore is decently protected, the Delmarva Peninsula protects it from hurricanes somewhat, and except the port and inner harbor the city is not at low elevation. However, the same Delmarva Peninsula that protects Baltimore is at very low elevation, link to map below (7), so rising sea levels will both sink a large area of Maryland, and erode the very thing that protects Baltimore from storms. Also as the largest city in Maryland, Baltimore is responsible for a large amount of the state's emissions, so while it may not be the most affected by climate change, it is still in danger, and poised to make the largest difference. One of the larger sources of emissions is transportation, and this is easier to address by encouraging options with a lower carbon footprint.
+Baltimore City is a coastal city so any rise in sea level will affect it significantly, however as far as coastal cities go Baltimore is decently protected, the Delmarva Peninsula protects it from hurricanes somewhat, and except the port and inner harbor the city is not at low elevation. However, the same Delmarva Peninsula that protects Baltimore is at very low elevation, link to map below (7), so rising sea levels will both sink a large area of Maryland, and erode the very thing that protects Baltimore from storms. Also as the largest city in Maryland, Baltimore is responsible for a large amount of the state's emissions, so while it may not be the most affected by climate change, it is still in danger, and poised to make the largest difference. One of the larger sources of emissions is transportation, and this is easier to address by encouraging options with a lower carbon footprint.
 	Due to this impending problem we pose the questions, What can the City of Baltimore do to reduce emissions to combat climate change? How much will sea levels rise over time? 
 
 
@@ -66,8 +66,7 @@ Carbon Dioxide emissions make up about 95% of all transportation related greenho
 
 [Topographical Map of Maryland](https://en-ca.topographic-map.com/maps/fdez/Maryland/)
 
-Journal on Economic Effects of Public Transport (9)
-(https://www.apta.com/wp-content/uploads/Resources/resources/reportsandpublications/Documents/Economic-Impact-Public-Transportation-Investment-APTA.pdf)
+[Journal on Economic Effects of Public Transport](https://www.apta.com/wp-content/uploads/Resources/resources/reportsandpublications/Documents/Economic-Impact-Public-Transportation-Investment-APTA.pdf)
 
 [Money Saved via Public Transport](https://www.moneycrashers.com/benefits-public-transportation-travel-for-less/#:~:text=It's%20cheaper%20to%20take%20public,and%20taking%20public%20transit%20instead.&text=In%20some%20cities%2C%20you%20can,by%20switching%20to%20public%20transit) 
 
