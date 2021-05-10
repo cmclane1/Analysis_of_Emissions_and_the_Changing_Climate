@@ -1,15 +1,24 @@
-# Analysis_of_Emissions_and_the_Changing_Climate
-## Clayton McLane (Mini Project 5)
-### Background
-I was looking for data to really dig into a problem I am passionate about, and I came across the NASA data on climate change. I am a big proponent of improving sustainability and the danger of ignoring Climate Change, and also very interested in transportation and curious about how fields such as transportation can be made more sustainable. The Climate is changing, global temperatures are rising, and the consensous amoung scientists is that this has been caused by the drastic rise in emissions since the industrial revolution. These greenhouse gases are trapping heat on the earth and driving climate change. Some of the main problems this rise in temperature causes is melting permantely frozen ice and thus causing sea levels to rise. Also the extra energy makes ocean storms such as hurricanes more frequent and devestating. 
-### Questions
-What dangers does climate change pose, and can these changes be predicted. Also what steps can be taken to reduce the impact of climate change.
-### Initial Analysis
-I imported data on Emissions, Temperature, and Sea Level from reputable sources Global Carbon Project, NASA, and Climate.gov. Then using python I cleaned the data, converted the temps from celcius to fahrenheit and graphed them in the plotly express charts shown below. They clearly show that the three are going up at an alarming and similar rate, and is begging for further analysis such as a regression. 
+# Baltimore and the Changing Climate
+### By: Clayton Mclane and Nand Vommi
+
+## Main Pitch: 
+With the growing dilemma of global warming and increased greenhouse gas emissions the sea level has risen across the globe which can put several coastal areas at risk. After learning that Carbon Dioxide makes up 95% of U.S greenhouse gas emissions, we concluded for the city of Baltimore that transportation via vehicles was a significant dilemma. Car transportation alone accounts for almost half of the carbon footprint for the city of Baltimore, and our study concluded that switching to public transport can be a viable and efficient solution for this city. Additional needs for these findings would be the actual practicality of implementing this including the economic and political implications. Currently, the state government, our stakeholder, can utilize these findings in order to focus their funding and attention to this issue and divert their attention to this aspect in order to fix it.
+
+## Problem Statement and Background:
+
+What is Climate Change, and what dangers does it pose? Climate change is the fact that the global temperature is rising, as shown above, and the scientific consensus is that this is due to the emissions of green-house gasses (3)(4). Green-house gases are gases that absorb and then radiate radiant energy (1). Thus these gases absorb heat and radiate it back to earth that would be lost to space, warming the Earth like a green-house. The higher temperatures cause ice that is normally permanently frozen to melt and thus sea levels rise. This is shown in the graph on the below, depicting the Global Mean Sea level over time (5). This is problematic since 40% of the human race lives in coastal regions. Higher sea levels cause increased flood risk and developments that are at very low elevation, can become submerged. These risks are compounded by the fact that hurricanes and cyclones are powered by heat over oceans, which is increased via global warming, making these storms more frequent and powerful. Think the destruction of storms such as Hurricane Katrina and Hurricane Sandy.
 
 ![alt](https://github.com/cmclane1/Analysis_of_Emissions_and_the_Changing_Climate/blob/main/Rise_in_Yearly_Temps.png)
 ![alt](https://github.com/cmclane1/Analysis_of_Emissions_and_the_Changing_Climate/blob/main/Rise_in_Yearly_GMSL.png)
-![alt](https://github.com/cmclane1/Analysis_of_Emissions_and_the_Changing_Climate/blob/main/Rise_in_Yearly_Emissions.png)
+
+	Another huge problem with global warming is that it is a positive feedback loop, which is something that exacerbates itself. Here the issue is that water vapor is a green-house gas. So the Earth gets warmer and that causes more water to evaporate, which causes the Earth to get warmer. On top of that air holds more water vapor when it is warmer, and polar ice reflects heat away from the earth. All of these facts means that if the Earth gets too warm there may be nothing that can be done to cool it back down.
+	The main culprit of the rising amount of green-house gases and thus temperature, is Carbon Dioxide. Since the industrial revolution humanity has been releasing this gas into the atmosphere by burning fossil fuels such as coal, natural gas, and oil. This increase is shown in the graph on the left, and is clearly rising, and accelerating. As technology has progressed the demand for energy has as well, and humanity continues to release more and more C02, while simultaneously clear cutting forests that remove it from the atmosphere. This is a global issue, and does require a global effort to solve. But, it will also take action from all levels, national, local, and personal, to solve. We will continue to depend somewhat on fossil fuels, but reducing emissions, even a small amount, will pay dividends in the future. More information at the Global Carbon Project (2).
+ 
+ ![alt](https://github.com/cmclane1/Analysis_of_Emissions_and_the_Changing_Climate/blob/main/Rise_in_Yearly_Emissions.png)
+ 
+	Baltimore City is a coastal city so any rise in sea level will affect it significantly, however as far as coastal cities go Baltimore is decently protected, the Delmarva Peninsula protects it from hurricanes somewhat, and except the port and inner harbor the city is not at low elevation. However, the same Delmarva Peninsula that protects Baltimore is at very low elevation, link to map below (7), so rising sea levels will both sink a large area of Maryland, and erode the very thing that protects Baltimore from storms. Also as the largest city in Maryland, Baltimore is responsible for a large amount of the state's emissions, so while it may not be the most affected by climate change, it is still in danger, and poised to make the largest difference. One of the larger sources of emissions is transportation, and this is easier to address by encouraging options with a lower carbon footprint.
+	Due to this impending problem we pose the questions, What can the City of Baltimore do to reduce emissions to combat climate change? How much will sea levels rise over time? 
+
 
 ### Solution Analysis
 After understanding how Humans have caused climate change, which causes global sea level to rise, I was able to identify several areas around Baltimore that would be at risk in the coming years.
@@ -52,3 +61,14 @@ Carbon Dioxide emissions make up about 95% of all transportation related greenho
 [Scholarly Journal on Transportation vs. Emissions](https://www.transit.dot.gov/sites/fta.dot.gov/files/docs/PublicTransportationsRoleInRespondingToClimateChange2010.pdf)
 
 [Greenhouse Emissions Data](https://www.epa.gov/ghgreporting/archive-ghg-reporting-program-data-sets)
+
+[Greenhouse gas wiki](https://en.wikipedia.org/wiki/Greenhouse_gas#:~:text=The%20primary%20greenhouse%20gases%20in,and%20ozone%20(O3))
+
+[Topographical Map of Maryland](https://en-ca.topographic-map.com/maps/fdez/Maryland/)
+
+Journal on Economic Effects of Public Transport (9)
+(https://www.apta.com/wp-content/uploads/Resources/resources/reportsandpublications/Documents/Economic-Impact-Public-Transportation-Investment-APTA.pdf)
+
+[Money Saved via Public Transport](https://www.moneycrashers.com/benefits-public-transportation-travel-for-less/#:~:text=It's%20cheaper%20to%20take%20public,and%20taking%20public%20transit%20instead.&text=In%20some%20cities%2C%20you%20can,by%20switching%20to%20public%20transit) 
+
+[Models from other Cities](https://usa.streetsblog.org/2019/07/23/mayors-demand-transit-funds-to-fight-climate-change/) 
